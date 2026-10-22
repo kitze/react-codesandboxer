@@ -168,7 +168,12 @@ A simple react component to help easily deploy an example to codesandbox
       <strong><a href="https://www.theinfluencer.ai/?ref=kitze%2Freact-codesandboxer">The Influencer AI</a></strong><br>
       AI influencer generator: create a realistic influencer from traits or your photos, then make photos, talking videos and UGC ads with the same face every time.
     </td>
-    <td width="67%" colspan="2" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://pluginboard.ai/?ref=kitze%2Freact-codesandboxer"><img src="https://pluginboard.ai/icon.png?icon.0yaf1ql1jrfgd.png" width="40" alt="Pluginboard logo"></a><br>
+      <strong><a href="https://pluginboard.ai/?ref=kitze%2Freact-codesandboxer">Pluginboard</a></strong><br>
+      Find the right plugins for your AI agents. Plugins, skills and step-by-step recipes for Claude, ChatGPT, Grokbot, Muse, Gemini and more.
+    </td>
+    <td width="33%" valign="top">
       <strong><a href="https://www.kitze.io/sponsors?ref=kitze%2Freact-codesandboxer">Your product here</a></strong><br>
       Reach developers in every kitze repo.
     </td>
